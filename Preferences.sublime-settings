@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"status_bar_brighter": true,
+	"tabs_small": true,
+	"theme": "Afterglow-green.sublime-theme",
+	"word_wrap": true
+}

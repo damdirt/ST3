@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Compare Side-By-Side",
+		"CSS Format",
+		"Emmet",
+		"HTML5",
+		"Indent XML",
+		"Java Velocity",
+		"LiveReload",
+		"Package Control",
+		"PlainTasks",
+		"Pretty JSON",
+		"Razor",
+		"Sass",
+		"Tag",
+		"Theme - Afterglow",
+		"Trimmer",
+		"TypeScript",
+		"View In Browser"
+	]
+}
